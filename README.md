@@ -1,5 +1,4 @@
 # TAREA-8--CAPITULOS-15-16
-# TAREA-7--CAPITULOS-13-14
 ## 1. Objetivos
 ### Objetivo general
 ### Objetivos específicos
