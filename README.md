@@ -17,6 +17,13 @@
 
 ### Capítulo XVI
 
+![image](https://user-images.githubusercontent.com/105740772/183548555-80885f52-f4c5-4c2a-b679-93f460cf532b.png)
+
+![image](https://user-images.githubusercontent.com/105740772/183548879-10be465f-a270-4256-ac27-5f44dc59c343.png)
+
+![image](https://user-images.githubusercontent.com/105740772/183549077-af31e803-ee12-4c7d-b248-7fd7e8863e6e.png)
+
+![image](https://user-images.githubusercontent.com/105740772/183549557-dc4cd4e8-0736-4928-bdbb-673d846f829b.png)
 
 ## 3. Explicación y resolución de los ejercicios
 ### Capítulo
