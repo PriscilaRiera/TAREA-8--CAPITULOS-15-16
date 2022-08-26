@@ -261,6 +261,7 @@ los diagramas de impedancia.
 
 ## 4. Video
 
+https://www.youtube.com/watch?v=mQC1cGVisig
 
 ## 5. Conclusiones
 - Los números complejos tienen el objetivo de utilizar cantidades fasoriales, así mismo pueden realizar operaciones que poseen magnitud y ángulo. Los circuitos RC son aquellos circuitos que poseen al menos una resistencia en su composición y un capacitor incorporado en el circuito electrónico.
